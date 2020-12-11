@@ -132,4 +132,4 @@ git log
 git push --all https://github.com/4916ArhipowAS/LR6
 git add Image
 git commit -m "Added file Image"
-git push --all https://github.com/4916ArhipowAS/LR6Пол
+git push --all https://github.com/4916ArhipowAS/LR6
