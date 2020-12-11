@@ -1,97 +1,97 @@
 Сделал форк с GitHub
 
-![](Image/1.jpg)
-
 Переходим в каталог проекта
 
-![](Image/2.jpg)
+![](Image/1.jpg)
 
 Запрашиваем изменения с GitHub после добавления файла
 
-![](Image/3.jpg)
+![](Image/2.jpg)
 
 Получаем историю ветки
 
-![](Image/4.jpg)
+![](Image/3.jpg)
 
 Получаем список веток
 
-![](Image/5.jpg)
+![](Image/4.jpg)
 
 Переходим в ветку branch1
 
-![](Image/6.jpg)
+![](Image/5.jpg)
 
 Получаем историю ветки
 
-![](Image/7.jpg)
+![](Image/6.jpg)
 
 Получаем информацию о внесённых изменениях
 
-![](Image/8.jpg)
+![](Image/7.jpg)
 
 Переходим в ветку master
 
-![](Image/9.jpg)
+![](Image/8.jpg)
 
 Сливаем ветку branch1 с веткой master
 
-![](Image/10.jpg)
+![](Image/9.jpg)
 
 Получаем информацию о конфликтах
 
-![](Image/11.jpg)
+![](Image/10.jpg)
 
 Добавляем изменённый вручную файл mergefile.txt
 
-![](Image/12.jpg)
+![](Image/11.jpg)
 
 Смотрим статус
 
-![](Image/13.jpg)
+![](Image/12.jpg)
 
 Коммитим внесённые изменения
 
-![](Image/14.jpg)
+![](Image/13.jpg)
 
 Удаляем ветку branch1
 
-![](Image/15.jpg)
+![](Image/14.jpg)
 
 Добавляем файл Change_1.txt
 
-![](Image/16.jpg)
+![](Image/15.jpg)
 
 Коммитим 
 
-![](Image/17.jpg)
+![](Image/16.jpg)
 
 Добавляем файл Change_2.txt
 
-![](Image/18.jpg)
+![](Image/17.jpg)
 
 Коммитим
 
-![](Image/19.jpg)
+![](Image/18.jpg)
 
 Делаем хардрезет одного коммита
 
-![](Image/20.jpg)
+![](Image/19.jpg)
 
 Создаём ветку report
 
-![](Image/21.jpg)
+![](Image/20.jpg)
 
 Отправляем всё в хранилище на GitHub
 
-![](Image/22.jpg)
+![](Image/21.jpg)
 
 Добавляем папку со скриншотами
 
-![](Image/23.jpg)
+![](Image/22.jpg)
 
 Коммитим
 
-![](Image/24.jpg)
+![](Image/23.jpg)
 
 Отправляем всё в хранилище на GitHub
+
+![](Image/24.jpg)
