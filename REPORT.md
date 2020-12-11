@@ -1,97 +1,136 @@
 Сделал форк с GitHub
 
-Переходим в каталог проекта
+Скачиваем проект на пк
 
 ![](Image/1.jpg)
 
-Запрашиваем изменения с GitHub после добавления файла
+Переходим в каталог проекта
 
 ![](Image/2.jpg)
 
-Получаем историю ветки
+Запрашиваем изменения с GitHub после добавления файла
 
 ![](Image/3.jpg)
 
-Получаем список веток
+Получаем историю ветки
 
 ![](Image/4.jpg)
 
-Переходим в ветку branch1
+Получаем список веток
 
 ![](Image/5.jpg)
 
-Получаем историю ветки
+Переходим в ветку branch1
 
 ![](Image/6.jpg)
 
-Получаем информацию о внесённых изменениях
+Получаем историю ветки
 
 ![](Image/7.jpg)
 
-Переходим в ветку master
+Получаем информацию о внесённых изменениях
 
 ![](Image/8.jpg)
 
-Сливаем ветку branch1 с веткой master
+Переходим в ветку master
 
 ![](Image/9.jpg)
 
-Получаем информацию о конфликтах
+Сливаем ветку branch1 с веткой master
 
 ![](Image/10.jpg)
 
-Добавляем изменённый вручную файл mergefile.txt
+Получаем информацию о конфликтах
 
 ![](Image/11.jpg)
 
-Смотрим статус
+Добавляем изменённый вручную файл mergefile.txt
 
 ![](Image/12.jpg)
 
-Коммитим внесённые изменения
+Смотрим статус
 
 ![](Image/13.jpg)
 
-Удаляем ветку branch1
+Коммитим внесённые изменения
 
 ![](Image/14.jpg)
 
-Добавляем файл Change_1.txt
+Удаляем ветку branch1
 
 ![](Image/15.jpg)
 
-Коммитим 
+Добавляем файл Change_1.txt
 
 ![](Image/16.jpg)
 
-Добавляем файл Change_2.txt
+Коммитим 
 
 ![](Image/17.jpg)
 
-Коммитим
+Добавляем файл Change_2.txt
 
 ![](Image/18.jpg)
 
-Делаем хардрезет одного коммита
+Коммитим
 
 ![](Image/19.jpg)
 
-Создаём ветку report
+Делаем хардрезет одного коммита
 
 ![](Image/20.jpg)
 
-Отправляем всё в хранилище на GitHub
+Создаём ветку report
 
 ![](Image/21.jpg)
 
-Добавляем папку со скриншотами
+Отправляем всё в хранилище на GitHub
 
 ![](Image/22.jpg)
 
-Коммитим
+Добавляем папку со скриншотами
 
 ![](Image/23.jpg)
 
-Отправляем всё в хранилище на GitHub
+Коммитим
 
 ![](Image/24.jpg)
+
+Отправляем всё в хранилище на GitHub
+
+
+
+Фото редактора
+
+
+
+Лог команд
+
+git config --global user.name "4916_Arhipow_A_S"
+git config --global user.email explorers2016@yandex.ru
+git clone https://github.com/4916ArhipowAS/LR6
+cd LR6
+git pull
+git log
+git branch
+git checkout branch1
+git log
+git log -p
+git checkout master
+git merge branch1
+git status
+git add mergefile.txt
+git status
+git commit -m "Commit changes"
+git branch -d branch1
+git add Change_1.txt
+git commit -m "Change_1_txt"
+git add Change_2.txt
+git commit -m "Change_2.txt"
+git reset --hard HEAD~1
+git checkout -b report
+git log 
+git push --all https://github.com/4916ArhipowAS/LR6
+git add Image
+git commit -m "Added file Image"
+git push --all https://github.com/4916ArhipowAS/LR6Пол
