@@ -78,58 +78,74 @@
 
 Делаем хардрезет одного коммита
 
-![](Image/20.jpg)
+![](Image/21.jpg)
 
 Создаём ветку report
 
-![](Image/21.jpg)
-
-Отправляем всё в хранилище на GitHub
-
 ![](Image/22.jpg)
 
+Список коммитов
 
 ![](Image/23.jpg)
 
-Коммитим
-
-![](Image/24.jpg)
-
-Отправляем всё в хранилище на GitHub
-
-
-
 Фото редактора
 
-
+![](Image/24.jpg)
 
 Лог команд
 
 git config --global user.name "4916_Arhipow_A_S"
+
 git config --global user.email explorers2016@yandex.ru
+
 git clone https://github.com/4916ArhipowAS/LR6
+
 cd LR6
+
 git pull
+
 git log
+
 git branch
+
 git checkout branch1
+
 git log
+
 git log -p
+
 git checkout master
+
 git merge branch1
+
 git status
+
 git add mergefile.txt
+
 git status
+
 git commit -m "Commit changes"
+
 git branch -d branch1
+
 git add Change_1.txt
+
 git commit -m "Change_1_txt"
+
 git add Change_2.txt
+
 git commit -m "Change_2.txt"
+
 git reset --hard HEAD~1
+
 git checkout -b report
+
 git log 
+
 git push --all https://github.com/4916ArhipowAS/LR6
+
 git add Image
+
 git commit -m "Added file Image"
+
 git push --all https://github.com/4916ArhipowAS/LR6
